@@ -1,4 +1,4 @@
-account:
+card:
   service-info:
     name: test-prod
     version: 1.0
