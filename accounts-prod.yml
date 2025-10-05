@@ -1,0 +1,10 @@
+account:
+  service-info:
+    name: test-prod
+    version: 1.0
+  team-info:
+    contact: "+998909014459"
+    name: "DreamTeam prod"
+    members:
+      - Shukhratjon Rayimjonov
+      - Super prod
